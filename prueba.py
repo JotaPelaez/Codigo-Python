@@ -3,7 +3,7 @@ lista = frase.split(' ')
 print()
 print(lista)
 print()
-#Comentario Paula
+
 match frase:
     case 'Hello, World!':
         print('Welcome to my home!')
@@ -16,7 +16,3 @@ match frase:
 print()
 
 #Modifique mi funcion suma
-
-#Codigo para VSC
-
-#Codigo despues de subir a GITHUB
