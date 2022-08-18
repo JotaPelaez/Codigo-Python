@@ -1,4 +1,4 @@
-# #TODO Video 3/33 Nicosio. Como crear un archivo de texto. Craemos la cadena que deseamos que se guarde.
+# #TODO Video 3/33 Nicosio. Como crear un archivo de texto. Craemos la cadena que deseamos que se guarde. Prueba en ramaDevop REAL
 # cadena = "Es la frase ejemplo para la clase"
 
 # #TODO Escribir archivos. Pasamos el nombre del archivo, si lo deseamos con su ruta e indicamos que es para escrituta
