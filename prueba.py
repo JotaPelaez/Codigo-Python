@@ -15,6 +15,3 @@ match frase:
          
 print()
 
-#Modifique mi funcion suma
-
-#Nuevo codigo mejoramiento
